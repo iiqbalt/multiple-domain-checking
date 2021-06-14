@@ -16,3 +16,4 @@ Then run this command on terminal.
 ```
 $ php index.php
 ```
+![image info](./result.png)
