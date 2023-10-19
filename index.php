@@ -6,7 +6,8 @@ include "simple_html_dom.php";
 $domains = [
     "google.com",
     "github.com",
-    "gitlab.com"
+    "gitlab.com",
+    "facebook.com"
 ];
 
 $query = [
